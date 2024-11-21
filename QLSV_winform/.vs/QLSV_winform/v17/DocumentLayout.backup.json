@@ -1,0 +1,299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{838FC620-D68A-4309-8625-589EFB808450}|QLSV_winform\\QLSV_winform.csproj|c:\\users\\quag\\source\\repos\\qlsv_winform\\qlsv_winform\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838FC620-D68A-4309-8625-589EFB808450}|QLSV_winform\\QLSV_winform.csproj|solutionrelative:qlsv_winform\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838FC620-D68A-4309-8625-589EFB808450}|QLSV_winform\\QLSV_winform.csproj|C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\qlsv_winform\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{838FC620-D68A-4309-8625-589EFB808450}|QLSV_winform\\QLSV_winform.csproj|solutionrelative:qlsv_winform\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838FC620-D68A-4309-8625-589EFB808450}|QLSV_winform\\QLSV_winform.csproj|c:\\users\\quag\\source\\repos\\qlsv_winform\\qlsv_winform\\timkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838FC620-D68A-4309-8625-589EFB808450}|QLSV_winform\\QLSV_winform.csproj|solutionrelative:qlsv_winform\\timkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838FC620-D68A-4309-8625-589EFB808450}|QLSV_winform\\QLSV_winform.csproj|c:\\users\\quag\\source\\repos\\qlsv_winform\\qlsv_winform\\timkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{838FC620-D68A-4309-8625-589EFB808450}|QLSV_winform\\QLSV_winform.csproj|solutionrelative:qlsv_winform\\timkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838FC620-D68A-4309-8625-589EFB808450}|QLSV_winform\\QLSV_winform.csproj|c:\\users\\quag\\source\\repos\\qlsv_winform\\qlsv_winform\\thongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838FC620-D68A-4309-8625-589EFB808450}|QLSV_winform\\QLSV_winform.csproj|solutionrelative:qlsv_winform\\thongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838FC620-D68A-4309-8625-589EFB808450}|QLSV_winform\\QLSV_winform.csproj|c:\\users\\quag\\source\\repos\\qlsv_winform\\qlsv_winform\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838FC620-D68A-4309-8625-589EFB808450}|QLSV_winform\\QLSV_winform.csproj|solutionrelative:qlsv_winform\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838FC620-D68A-4309-8625-589EFB808450}|QLSV_winform\\QLSV_winform.csproj|C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\qlsv_winform\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{838FC620-D68A-4309-8625-589EFB808450}|QLSV_winform\\QLSV_winform.csproj|solutionrelative:qlsv_winform\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838FC620-D68A-4309-8625-589EFB808450}|QLSV_winform\\QLSV_winform.csproj|C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\qlsv_winform\\thongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{838FC620-D68A-4309-8625-589EFB808450}|QLSV_winform\\QLSV_winform.csproj|solutionrelative:qlsv_winform\\thongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838FC620-D68A-4309-8625-589EFB808450}|QLSV_winform\\QLSV_winform.csproj|C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\qlsv_winform\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{838FC620-D68A-4309-8625-589EFB808450}|QLSV_winform\\QLSV_winform.csproj|solutionrelative:qlsv_winform\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838FC620-D68A-4309-8625-589EFB808450}|QLSV_winform\\QLSV_winform.csproj|c:\\users\\quag\\source\\repos\\qlsv_winform\\qlsv_winform\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838FC620-D68A-4309-8625-589EFB808450}|QLSV_winform\\QLSV_winform.csproj|solutionrelative:qlsv_winform\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838FC620-D68A-4309-8625-589EFB808450}|QLSV_winform\\QLSV_winform.csproj|c:\\users\\quag\\source\\repos\\qlsv_winform\\qlsv_winform\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838FC620-D68A-4309-8625-589EFB808450}|QLSV_winform\\QLSV_winform.csproj|solutionrelative:qlsv_winform\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838FC620-D68A-4309-8625-589EFB808450}|QLSV_winform\\QLSV_winform.csproj|C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\qlsv_winform\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{838FC620-D68A-4309-8625-589EFB808450}|QLSV_winform\\QLSV_winform.csproj|solutionrelative:qlsv_winform\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838FC620-D68A-4309-8625-589EFB808450}|QLSV_winform\\QLSV_winform.csproj|c:\\users\\quag\\source\\repos\\qlsv_winform\\qlsv_winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838FC620-D68A-4309-8625-589EFB808450}|QLSV_winform\\QLSV_winform.csproj|solutionrelative:qlsv_winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838FC620-D68A-4309-8625-589EFB808450}|QLSV_winform\\QLSV_winform.csproj|C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\qlsv_winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{838FC620-D68A-4309-8625-589EFB808450}|QLSV_winform\\QLSV_winform.csproj|solutionrelative:qlsv_winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:845303917:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "timkiem.cs",
+              "DocumentMoniker": "C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\QLSV_winform\\timkiem.cs",
+              "RelativeDocumentMoniker": "QLSV_winform\\timkiem.cs",
+              "ToolTip": "C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\QLSV_winform\\timkiem.cs",
+              "RelativeToolTip": "QLSV_winform\\timkiem.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAApwMQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:40:50.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "timkiem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\QLSV_winform\\timkiem.cs",
+              "RelativeDocumentMoniker": "QLSV_winform\\timkiem.cs",
+              "ToolTip": "C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\QLSV_winform\\timkiem.cs [Design]",
+              "RelativeToolTip": "QLSV_winform\\timkiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:38:55.235Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "thongtin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\QLSV_winform\\thongtin.cs",
+              "RelativeDocumentMoniker": "QLSV_winform\\thongtin.cs",
+              "ToolTip": "C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\QLSV_winform\\thongtin.cs [Design]",
+              "RelativeToolTip": "QLSV_winform\\thongtin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:50:42.352Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "thongtin.cs",
+              "DocumentMoniker": "C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\QLSV_winform\\thongtin.cs",
+              "RelativeDocumentMoniker": "QLSV_winform\\thongtin.cs",
+              "ToolTip": "C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\QLSV_winform\\thongtin.cs",
+              "RelativeToolTip": "QLSV_winform\\thongtin.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwKoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:45:49.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "database.cs",
+              "DocumentMoniker": "C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\QLSV_winform\\database.cs",
+              "RelativeDocumentMoniker": "QLSV_winform\\database.cs",
+              "ToolTip": "C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\QLSV_winform\\database.cs",
+              "RelativeToolTip": "QLSV_winform\\database.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:41:48.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dangky.cs",
+              "DocumentMoniker": "C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\QLSV_winform\\Dangky.cs",
+              "RelativeDocumentMoniker": "QLSV_winform\\Dangky.cs",
+              "ToolTip": "C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\QLSV_winform\\Dangky.cs",
+              "RelativeToolTip": "QLSV_winform\\Dangky.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA1wCYAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:18:19.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dangky.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\QLSV_winform\\Dangky.cs",
+              "RelativeDocumentMoniker": "QLSV_winform\\Dangky.cs",
+              "ToolTip": "C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\QLSV_winform\\Dangky.cs [Design]",
+              "RelativeToolTip": "QLSV_winform\\Dangky.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:13:53.445Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\QLSV_winform\\Main.cs",
+              "RelativeDocumentMoniker": "QLSV_winform\\Main.cs",
+              "ToolTip": "C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\QLSV_winform\\Main.cs",
+              "RelativeToolTip": "QLSV_winform\\Main.cs",
+              "ViewState": "AgIAADcBAAAAAAAAAAAAAEIBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:50:36.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\QLSV_winform\\User.cs",
+              "RelativeDocumentMoniker": "QLSV_winform\\User.cs",
+              "ToolTip": "C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\QLSV_winform\\User.cs [Design]",
+              "RelativeToolTip": "QLSV_winform\\User.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:56:04.005Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\QLSV_winform\\Main.cs",
+              "RelativeDocumentMoniker": "QLSV_winform\\Main.cs",
+              "ToolTip": "C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\QLSV_winform\\Main.cs [Design]",
+              "RelativeToolTip": "QLSV_winform\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:33:36.805Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dangnhap.cs",
+              "DocumentMoniker": "C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\QLSV_winform\\Dangnhap.cs",
+              "RelativeDocumentMoniker": "QLSV_winform\\Dangnhap.cs",
+              "ToolTip": "C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\QLSV_winform\\Dangnhap.cs",
+              "RelativeToolTip": "QLSV_winform\\Dangnhap.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswDIAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:28:15.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dangnhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\QLSV_winform\\Dangnhap.cs",
+              "RelativeDocumentMoniker": "QLSV_winform\\Dangnhap.cs",
+              "ToolTip": "C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\QLSV_winform\\Dangnhap.cs [Design]",
+              "RelativeToolTip": "QLSV_winform\\Dangnhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:35:45.108Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\QLSV_winform\\Form1.cs",
+              "RelativeDocumentMoniker": "QLSV_winform\\Form1.cs",
+              "ToolTip": "C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\QLSV_winform\\Form1.cs [Design]",
+              "RelativeToolTip": "QLSV_winform\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:14:20.906Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\QLSV_winform\\Form1.cs",
+              "RelativeDocumentMoniker": "QLSV_winform\\Form1.cs",
+              "ToolTip": "C:\\Users\\QUAG\\source\\repos\\QLSV_winform\\QLSV_winform\\Form1.cs",
+              "RelativeToolTip": "QLSV_winform\\Form1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwC8AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:14:25.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
